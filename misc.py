@@ -1,2 +1,0 @@
-token = '1191271331:AAHAgjgT24OEfKbTLRBlfpWiUUwsi3Pmv-I'
-access_token = '842e46c90ce475c9dabfb5160cc1ffc5057c4b86d315d6bbc83fc6ce1c134b3225843cef0171523395f9d'
